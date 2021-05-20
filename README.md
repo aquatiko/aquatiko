@@ -6,7 +6,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm a Software Engineer Intern at Amazon. Previously I was an intern at Google Sydney and worked on ChomreOS.
+- 🏦 I'm a Software Engineer YugaByte. Previously I was an intern at Amazon and Google Sydney where I worked on ChromeOS.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write technical articles on my [blog](https://aquatiko.github.io/)
 - 📖 I am currently reading [Bezonomics](https://www.amazon.in/dp/1471184145/ref=cm_sw_em_r_mt_dp_65XXY6DHY3NRK4410TMS)
