@@ -34,8 +34,6 @@
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=aquatiko&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquatiko&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.65 % as on ⏰ 21-3-2021.
-
 ---
 
 ### 😜Here's a Joke for you:
