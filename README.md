@@ -1,4 +1,6 @@
-# Hi there (check my green github graph from 2019) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Check my github graph 2019-2023
+
 <p align="center">
 <a href="https://www.linkedin.com/in/rohitkumar87/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohitkumar87" height="30" width="30" /></a>&nbsp;
 </p>
